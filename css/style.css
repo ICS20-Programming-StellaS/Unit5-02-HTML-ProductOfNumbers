@@ -1,0 +1,27 @@
+/* Created by: Stella S
+* Created on: May 2022
+* This CSS file defines the style for index.html
+* Unit5-02-HTML-ProductOfNumbers
+*/
+
+body {
+	background-color: LightYellow;
+}
+
+h1 {
+  background-color:	#FFFACD;
+}
+
+h3 {
+  background-color:	rgb(250, 250, 210);
+}
+
+table {
+  background-color: rgb(255, 239, 213);
+}
+
+label {
+  background-color: #FFE4B5;
+  color: rgb(0, 0, 0)
+}
+
